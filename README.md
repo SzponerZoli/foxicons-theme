@@ -34,7 +34,7 @@ sudo gtk-update-icon-cache -f -t /usr/share/icons/fox-icons
 ## Desktop Integration
 
 ### GNOME
-Settings → Appearance → Icons → Fox Icons
+Tweaks → Appearance → Icons → Fox Icons
 
 ### KDE Plasma
 System Settings → Appearance → Icons → Fox Icons
