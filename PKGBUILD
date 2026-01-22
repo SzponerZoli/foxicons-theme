@@ -1,4 +1,4 @@
-# Maintainer: Zoltan Egyhazi <szponerzoli@example.com>
+# Maintainer: Zoltan Egyhazi <szponerzolidev@proton.me>
 pkgname=foxicons-theme
 pkgver=1.0.0
 pkgrel=1
