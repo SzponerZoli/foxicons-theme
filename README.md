@@ -90,5 +90,4 @@ The theme includes icons at the following sizes:
 - 256×256 - High-quality preview
 
 ## License
-
 Please refer to the original source for licensing information.
