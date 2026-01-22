@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Fox Icons Theme Uninstaller
-
+# i just need something to commit
 if [ -z "$XDG_DATA_HOME" ]; then
     XDG_DATA_HOME="$HOME/.local/share"
 fi
