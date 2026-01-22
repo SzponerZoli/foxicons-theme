@@ -11,21 +11,31 @@ A collection of ugly icons from 2h foxcomm
 
 ## Installation
 
-### Method 1: Using the install script
+### Method 1: AUR (Arch User Repository)
+```bash
+yay -S foxicons-theme
+```
+
+Or with other AUR helpers:
+```bash
+paru -S foxicons-theme
+```
+
+### Method 2: Using the install script
 ```bash
 cd foxicons-theme
 chmod +x install.sh
 ./install.sh
 ```
 
-### Method 2: Manual installation
+### Method 3: Manual installation
 ```bash
 mkdir -p ~/.local/share/icons
 cp -r foxicons-theme ~/.local/share/icons/fox-icons
 gtk-update-icon-cache -f -t ~/.local/share/icons/fox-icons
 ```
 
-### Method 3: System-wide installation (requires sudo)
+### Method 4: System-wide installation (requires sudo)
 ```bash
 sudo cp -r foxicons-theme /usr/share/icons/fox-icons
 sudo gtk-update-icon-cache -f -t /usr/share/icons/fox-icons
