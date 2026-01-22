@@ -1,6 +1,6 @@
 # Fox Icons - Linux Icon Theme
 
-A collection of multi-sized icons organized as a Linux desktop icon theme.
+A collection of ugly icons from 2h foxcomm
 
 ## Contents
 
