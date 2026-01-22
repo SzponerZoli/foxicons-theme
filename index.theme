@@ -1,0 +1,44 @@
+[Icon Theme]
+Name=Foskomm icons
+Comment=A collection of ugly icons from 2h foxcomm
+DisplayDepth=32
+Inherits=hicolor
+
+# Define directories
+Directories=16x16,32x32,48x48,64x64,96x96,128x128,256x256
+
+# 16x16
+[16x16]
+Size=16
+Type=Fixed
+
+# 32x32
+[32x32]
+Size=32
+Type=Fixed
+
+# 48x48
+[48x48]
+Size=48
+Type=Fixed
+
+# 64x64
+[64x64]
+Size=64
+Type=Fixed
+
+# 96x96
+[96x96]
+Size=96
+Type=Fixed
+
+# 128x128
+[128x128]
+Size=128
+Type=Fixed
+
+# 256x256 - highest quality
+[256x256]
+Size=256
+Type=Fixed
+
