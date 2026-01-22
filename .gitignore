@@ -1,2 +1,16 @@
 *.pkg.tar.zst
 /pkg
+*.tar
+*.tar.*
+*.jar
+*.exe
+*.msi
+*.zip
+*.tgz
+*.log
+*.log.*
+*.sig
+*.deb
+
+pkg/
+src/
